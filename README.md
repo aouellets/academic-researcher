@@ -1,8 +1,8 @@
 # Academic Researcher
 
-**Literature reviews, systematic reviews, citations, and policy briefs.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For researchers: go from scattered papers to a synthesized, citation-clean academic draft.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A skill pack for academics and researchers. Covers systematic reviews, literature synthesis, citation management, academic essays, and policy briefs.
+For grad students, academics, and research analysts who need defensible writing, not just notes. Reach for this when you have a pile of papers and a deadline: run a formal PRISMA review or a narrative synthesis, pin down themes and gaps, verify every claim and citation, then ship a thesis-driven essay or brief that survives peer review. The full path from literature to a draft you can defend.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
